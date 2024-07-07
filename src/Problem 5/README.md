@@ -4,7 +4,7 @@
 
 - [Overview](#overview)
 - [Installation and running the Application](#installation-and-running-the-application)
-- [Features and API Endpoints](#features)
+- [Features and API Endpoints](#features-and-api-endpoints)
 
 ## Overview
 
