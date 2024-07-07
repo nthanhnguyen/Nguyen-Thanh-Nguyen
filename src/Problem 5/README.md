@@ -3,7 +3,7 @@
 ## Table of contents
 
 - [Overview](#overview)
-- [Installation and running the Application](#installation)
+- [Installation and running the Application](#installationandrunningtheapplication)
 - [Features and API Endpoints](#features)
 
 ## Overview
