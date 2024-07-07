@@ -57,12 +57,12 @@ Updates the score of a user after they complete an action.
 6. The website updates the scoreboard with the new score.
 7. The server pushes the updated scores to the scoreboard for live updates.
    
-**Flow chart**
+- **Flow chart**
 
 ![image](https://github.com/nthanhnguyen/Nguyen-Thanh-Nguyen/assets/110075152/c9c63024-6e70-449e-a2b7-eafa0e57a2c8)
 
 
-**Sequence Diagram**
+- **Sequence Diagram**
 
 ![image](https://github.com/nthanhnguyen/Nguyen-Thanh-Nguyen/assets/110075152/1cd35555-a3a2-47b9-a803-06e91cb194e9)
 
