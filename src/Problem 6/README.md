@@ -56,6 +56,7 @@ Updates the score of a user after they complete an action.
 5. The server returns the updated score to the website.
 6. The website updates the scoreboard with the new score.
 7. The server pushes the updated scores to the scoreboard for live updates.
+   
 **Flow chart**
 
 ![image](https://github.com/nthanhnguyen/Nguyen-Thanh-Nguyen/assets/110075152/c9c63024-6e70-449e-a2b7-eafa0e57a2c8)
