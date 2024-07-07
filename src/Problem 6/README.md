@@ -4,8 +4,8 @@
 
 - [Overview](#overview)
 - [Features](#features)
-- [API Endpoints](#apiendpoints)
-- [Flow of Execution](#flowofexecution)
+- [API Endpoints](#api-endpoints)
+- [Flow of Execution](#flow-of-execution)
 - [Security](#security)
 - [Improvements](#improvements)
 
@@ -58,8 +58,11 @@ Updates the score of a user after they complete an action.
 7. The server pushes the updated scores to the scoreboard for live updates.
 
 **Flow chart**
+![image](https://github.com/nthanhnguyen/Nguyen-Thanh-Nguyen/assets/110075152/c9c63024-6e70-449e-a2b7-eafa0e57a2c8)
 
 **Sequence Diagram**
+![image](https://github.com/nthanhnguyen/Nguyen-Thanh-Nguyen/assets/110075152/1cd35555-a3a2-47b9-a803-06e91cb194e9)
+
 
 ## Security
 
