@@ -28,6 +28,7 @@
 3. **Set up environment variables (you can use .env file in this project):**
 
 Create a .env file in the root directory and configure the following variables:
+
     ```bash
     PORT=3000  # Specify your desired port number
     MONGO_URL=mongodb://localhost:27017/mydatabase  # MongoDB connection URI
